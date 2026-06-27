@@ -1,0 +1,3 @@
+{"messages":[{"role":"user","content":"Capital of Japan?"},{"role":"assistant","content":"Tokyo"}]}
+{"messages":[{"role":"user","content":"Capital of India?"},{"role":"assistant","content":"New Delhi"}]}
+{"messages":[{"role":"user","content":"2+2?"},{"role":"assistant","content":"4"}]}

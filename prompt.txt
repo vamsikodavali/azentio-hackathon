@@ -1,0 +1,10 @@
+Step 1: Understand the customer's loan profile
+Step 2: Calculate financial metrics
+Step 3: Interpret each metric
+Step 4: Positive observations
+Step 5: Risk observations
+Step 6: Overall financial assessment
+Final Decision
+Approval Recommendation: Approve
+Loan Summary:
+`
